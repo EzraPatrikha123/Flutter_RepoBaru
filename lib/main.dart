@@ -3,6 +3,7 @@ import 'package:flutter_project/Button.dart';
 import 'package:flutter_project/Dialog.dart';
 import 'package:flutter_project/Scaffold.dart';
 import 'package:flutter_project/Text.dart';
+import 'package:flutter_project/Whew.dart';
 
 void main() {
   runApp(const MyApp());
@@ -20,7 +21,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: DialogWidget(),
+      home: HaiWidget(),
     );
   }
 }

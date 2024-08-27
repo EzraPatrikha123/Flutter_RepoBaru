@@ -21,3 +21,5 @@ Gambar 2 Button Widget
 ![Button Widget](https://github.com/EzraPatrikha123/Flutter_RepoBaru/blob/main/image/Button_Widget.png)
 Gambar 3 Scaffold Widget
 ![Scaffold Widget](https://github.com/EzraPatrikha123/Flutter_RepoBaru/blob/main/image/Scaffold_Widget.png)
+Gambar 4 Dialog Widget
+![Dialog Widget](https://github.com/EzraPatrikha123/Flutter_RepoBaru/blob/main/image/Dialog_Widget.png)
